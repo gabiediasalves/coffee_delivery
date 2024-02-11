@@ -1,0 +1,28 @@
+.content{
+    margin: 110px 160px 30px 160px;
+    display: flex;
+    align-content: space-between;
+}
+
+.title_h1{
+    font-size: 70px;
+    color: var(--base-title);
+    font-weight: bold;
+    text-shadow: rgba(0, 0, 0, 0.253) 0.1em 0.1em 0.2em;
+    margin: 0px 300px 0px 0px;
+}
+
+
+.content_img{
+    margin-right: 500px;
+}
+
+.img{
+    min-width: 600px;
+    max-height: 500px;
+}
+
+.description{
+    font-size: 30px;
+    margin: 10px 300px 100px 0px;
+}

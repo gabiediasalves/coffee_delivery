@@ -1,0 +1,30 @@
+.header{
+    padding: 15px;  
+    display: flex;
+    justify-content: space-between; 
+    margin: 10px 160px 30px 160px;
+}
+
+.combobox{
+    color: var(--purple-400);
+    background-color: var(--purple-100);
+    padding: 20px;
+    border-radius: 13px;
+    border: none;
+    font-size: 17px;
+    margin-right: 25px;
+    appearance: none;
+}
+
+.navbar_right{
+    display: flex;
+    align-items: center;
+}
+
+.ShoppingCart{
+    color: var(--yellow-400);
+    background-color: var(--yellow-100);
+    padding: 11px;
+    border-radius: 13px;
+
+}
